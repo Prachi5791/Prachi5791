@@ -1,21 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Prachi+Patil.;Final-Year+CS+Engineer.;Full+Stack+%2B+AI%2FML+Developer.;IEEE+SCOPUS+Published+Researcher.;BARC+Project+Trainee." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Prachi+Maruti+Patil.;CS+Engineer+%7C+Data+Science+Honours;Full+Stack+%2B+AI%2FML+Developer;IEEE+SCOPUS+Published+%7C+BARC+Trained;2027+Batch+%E2%80%94+Open+to+Opportunities" alt="Typing SVG" />
 
 <br/>
 
-**Computer Engineering · Data Science Honours · CGPA 9.79/10**
-
-*Vidyalankar Institute of Technology, Mumbai · Batch of 2027*
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://prachi5791.github.io/PrachiPatil/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prachi-maruti-patil)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=googledrive&logoColor=white)](https://prachi5791.github.io/PrachiPatil/)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:prachimarutipatil19@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=Prachi5791&style=flat-square&color=8B949E&label=profile+views" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://prachi5791.github.io/PrachiPatil/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C63FF?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prachi-maruti-patil)
+[![Resume](https://img.shields.io/badge/Resume-6C63FF?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1KuxmfBQhx5xLwmYZ8fNPsf6hCXtDjPr0/view?usp=drive_link)
+[![GitHub](https://img.shields.io/badge/GitHub-6C63FF?style=flat-square&logo=github&logoColor=white)](https://github.com/Prachi5791)
+[![Email](https://img.shields.io/badge/Email-6C63FF?style=flat-square&logo=gmail&logoColor=white)](mailto:prachimarutipatil19@gmail.com)
 
 </div>
 
@@ -23,63 +16,72 @@
 
 ---
 
-## About
+### Who I Am
 
-Final-year Computer Engineering student with a Data Science specialisation, building production-ready systems at the intersection of full-stack engineering, machine learning, and cloud platforms.
+Final-year B.Tech student in Computer Engineering with a **Data Science Honours** at Vidyalankar Institute of Technology, Mumbai — **CGPA 9.79/10**.
 
-Interned at **BARC, Govt. of India** — developed an intelligent weld defect detection system achieving 90%+ accuracy using deep learning and computer vision. Published researcher at **IEEE SCOPUS** (I5CPS-2026, NIT Puducherry) on developer salary prediction using model pool architecture. Three industry internships, six deployed projects, 3× hackathon finalist.
+I build things end-to-end. From a weld defect detection system at a Govt. of India nuclear research centre, to a live blockchain document verification platform, to a deployed AI surveillance system — my work sits at the intersection of full-stack engineering and applied AI. I have **3 internships**, **6 production-deployed projects**, and a **SCOPUS-indexed IEEE publication** before graduating.
 
-Currently seeking full-time roles in **SDE · AI/ML Engineering · Data Engineering** — open to 2027 opportunities.
-
-<br/>
-
----
-
-## Current Focus
-
-```
-▸  Production-ready AI systems   —  deep learning, computer vision, intelligent automation
-▸  Full-stack engineering        —  MERN stack, cloud deployment, API design
-▸  Data engineering              —  pipelines, query optimisation, visualisation
-▸  Placement preparation         —  DSA, system design, competitive programming
-▸  Research                      —  IEEE published, exploring GenAI applications
-```
+> Currently targeting **SDE · AI/ML · Data Engineering** roles — available from **May 2027**.
 
 <br/>
 
 ---
 
-## Tech Stack
+### What Makes Me Different
+
+| | |
+|---|---|
+| 🔬 **BARC, Govt. of India** | Built an intelligent weld defect detection system — 10 images/sec, 4 defect types. Real industrial deployment context, not a class project. |
+| 📄 **IEEE SCOPUS Published** | Research on developer salary prediction using model pool architecture — accepted at I5CPS-2026, NIT Puducherry. Presented to an academic panel. |
+| 🏆 **3× Hackathon Finalist** | Including Top 10 of 500+ teams internationally as Team Lead (TYNET 2.0, 2024). |
+| 🚀 **6 Deployed Projects** | Not "built locally" — live on Azure, Vercel, and Render with real APIs, real users, and real performance constraints. |
+
+---
+
+### Tech Stack
 
 <div align="center">
 
-**Languages**
+**Core Languages**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=c9d1d9)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=c9d1d9)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=c9d1d9)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=c9d1d9)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=c9d1d9)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=c9d1d9)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=6C63FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=6C63FF)
+![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=6C63FF)
+![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=6C63FF)
 
-**Frameworks & Libraries**
+**Frontend & UI**
 
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=c9d1d9)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=c9d1d9)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=c9d1d9)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=c9d1d9)
-![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=three.js&logoColor=c9d1d9)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=c9d1d9)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=c9d1d9)
+![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=6C63FF)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=next.js&logoColor=6C63FF)
+![Three.js](https://img.shields.io/badge/Three.js-1a1a2e?style=for-the-badge&logo=three.js&logoColor=6C63FF)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=6C63FF)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=6C63FF)
+![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=for-the-badge&logo=figma&logoColor=6C63FF)
 
-**Data & Cloud**
+**Backend & APIs**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=c9d1d9)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=c9d1d9)
-![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=c9d1d9)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=c9d1d9)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=c9d1d9)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=c9d1d9)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=node.js&logoColor=6C63FF)
+![Express](https://img.shields.io/badge/Express-1a1a2e?style=for-the-badge&logo=express&logoColor=6C63FF)
+![Flask](https://img.shields.io/badge/Flask-1a1a2e?style=for-the-badge&logo=flask&logoColor=6C63FF)
+![WebSocket](https://img.shields.io/badge/WebSocket-1a1a2e?style=for-the-badge&logo=socket.io&logoColor=6C63FF)
+
+**AI / ML**
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-1a1a2e?style=for-the-badge&logo=opencv&logoColor=6C63FF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=6C63FF)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1a1a2e?style=for-the-badge&logo=scikitlearn&logoColor=6C63FF)
+![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=for-the-badge&logo=pandas&logoColor=6C63FF)
+![OpenCV](https://img.shields.io/badge/OpenCV-1a1a2e?style=for-the-badge&logo=opencv&logoColor=6C63FF)
+
+**Cloud, Data & DevOps**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=6C63FF)
+![Azure](https://img.shields.io/badge/Azure-1a1a2e?style=for-the-badge&logo=microsoftazure&logoColor=6C63FF)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=6C63FF)
+![Vercel](https://img.shields.io/badge/Vercel-1a1a2e?style=for-the-badge&logo=vercel&logoColor=6C63FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a2e?style=for-the-badge&logo=githubactions&logoColor=6C63FF)
+![Solidity](https://img.shields.io/badge/Solidity-1a1a2e?style=for-the-badge&logo=solidity&logoColor=6C63FF)
 
 </div>
 
@@ -87,86 +89,46 @@ Currently seeking full-time roles in **SDE · AI/ML Engineering · Data Engineer
 
 ---
 
-## Featured Projects
+### Projects Worth Looking At
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> These aren't toy projects. Each one is deployed, has a real technical decision behind it, and can be defended in an interview.
 
-**[VigilAI — Smart Surveillance System](https://vigil-ai-five.vercel.app)**
+**[VigilAI](https://vigil-ai-five.vercel.app) — AI Surveillance Platform** `Python · YOLOv8 · Flask · React · Node.js · MongoDB · Docker`
+- Real-time event detection at 24–27 fps with ~80% mAP using YOLOv8
+- 3-service Docker architecture (React + Node.js + Flask) — spins up with one command
+- ADBMS analytics: compound indexing + NodeCache cut query time to sub-millisecond
+- Detects loitering, crowd formation, abandoned objects, vehicle stops
 
-AI-led video surveillance platform using YOLOv8 (~80% mAP) at 24–27 fps. Detects loitering, crowd formation, abandoned objects, and vehicle stops. Three-service Docker architecture with ADBMS analytics dashboard.
+**[DocVerfy](https://github.com/Prachi5791/DocVerfy) — Blockchain Document Verification** `Solidity · IPFS · React · Node.js · MongoDB · Ethers.js`
+- Documents stored on IPFS, verified on Ethereum — tamper-proof by design
+- 3-role access control (Uploader / Verifier / Admin) via OpenZeppelin
+- QR code generation, on-chain approvals, automated email notifications
 
-`Python` `YOLOv8` `Flask` `React` `Node.js` `MongoDB` `Docker`
+**[Inventory System](https://mango-rock-085887a00.1.azurestaticapps.net/login) — Azure Full Stack** `React · Node.js · MongoDB · Azure · JWT · GitHub Actions`
+- Deployed on Azure Static Web Apps with CI/CD via GitHub Actions
+- RESTful APIs monitored live via Azure Metrics dashboard
+- JWT authentication with role-based access control
 
-</td>
-<td width="50%" valign="top">
+**[Vocabify](https://github.com/Prachi5791/Vocabify) — Multilingual Learning App** `React · Node.js · MongoDB · JWT`
+- 10+ languages with spaced repetition algorithm
+- **73% query latency cut** — 450ms → 120ms via MongoDB index optimisation
 
-**[DocVerfy — Blockchain Document Verification](https://github.com/Prachi5791/DocVerfy)**
-
-Tamper-proof document verification using Solidity smart contracts, IPFS storage, and role-based access control. QR code generation, on-chain approvals, automated email notifications.
-
-`Solidity` `Hardhat` `IPFS` `React` `Node.js` `Ethers.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Inventory Management System](https://mango-rock-085887a00.1.azurestaticapps.net/login)**
-
-Full-stack platform deployed on Azure with RESTful APIs, real-time stock tracking, JWT auth, and live performance monitoring via Azure Metrics. CI/CD via GitHub Actions.
-
-`React` `Node.js` `MongoDB` `Azure` `JWT` `GitHub Actions`
-
-</td>
-<td width="50%" valign="top">
-
-**[FlipFrame — 3D Orthographic Viewer](https://prachi5791.github.io/Projections/)**
-
-3D visualisation tool for engineering students. 60 fps via Three.js, sub-2s load time through SSR, bundle under 500 KB, deployed globally on Vercel CDN.
-
-`Next.js` `Three.js` `Vercel CDN`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Vocabify — Multilingual Learning App](https://github.com/Prachi5791/Vocabify)**
-
-Vocabulary platform across 10+ languages with spaced repetition algorithm. Cut MongoDB query latency by 73% (450 ms → 120 ms) through index optimisation.
-
-`React` `Node.js` `MongoDB` `JWT`
-
-</td>
-<td width="50%" valign="top">
-
-**[UPI Transaction Data Visualisation](https://github.com/Prachi5791/UPI_Data_Visualization)**
-
-Comprehensive data analysis notebook — treemaps, heatmaps, fraud pattern detection, and network performance insights on real-world UPI transaction data.
-
-`Python` `Pandas` `Matplotlib` `Seaborn` `Plotly`
-
-</td>
-</tr>
-</table>
+**[FlipFrame](https://prachi5791.github.io/Projections/) — 3D Engineering Viewer** `Next.js · Three.js · Vercel`
+- 60 fps Three.js rendering, sub-2s load, bundle under 500 KB via SSR
 
 <br/>
 
 ---
 
-## Research
+### Research
 
 <div align="center">
 
 **Salary-Sense: A Model Pool Driven Developer Salary Prediction & Career Intelligence System**
 
-Accepted · Presented at **I5CPS-2026, NIT Puducherry**
+Presented at **I5CPS-2026 · NIT Puducherry** · Published under **IEEE Madras Section** · **SCOPUS Indexed**
 
-Published under **IEEE Madras Section** · **SCOPUS Indexed**
-
-*Model pool architecture outperforming single generalised models for developer salary prediction across experience segments.*
+Model pool architecture — multiple specialised models trained on developer population subsets — outperforming single generalised regression models. Presented to academic panel, February 2026.
 
 </div>
 
@@ -174,20 +136,18 @@ Published under **IEEE Madras Section** · **SCOPUS Indexed**
 
 ---
 
-## GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Prachi5791&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8B949E&text_color=c9d1d9&icon_color=8B949E" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi5791&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8B949E&text_color=c9d1d9" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Prachi5791&theme=github-dark-blue&hide_border=true&background=0d1117&ring=8B949E&fire=c9d1d9&currStreakLabel=8B949E" />
+<img src="https://streak-stats.demolab.com?user=Prachi5791&hide_border=true&background=1a1a2e&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=8B949E&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prachi5791&theme=github-compact&hide_border=true&bg_color=0d1117&color=8B949E&line=30363d&point=8B949E" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prachi5791&hide_border=true&bg_color=1a1a2e&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF" />
 
 </div>
 
@@ -195,31 +155,20 @@ Published under **IEEE Madras Section** · **SCOPUS Indexed**
 
 ---
 
-## Achievements
-
-| | |
-|---|---|
-| CGPA | 9.79 / 10.0 |
-| Research | IEEE SCOPUS Indexed · I5CPS-2026, NIT Puducherry |
-| Industry Training | BARC, Govt. of India — 90%+ detection accuracy system |
-| Hackathons | 3× Finalist · Top 10 of 500+ teams internationally (Team Lead) |
-| Internships | 3 industry internships · 6 production-deployed projects |
-| Certifications | Oracle AI Foundations · L&T EduTech ML · TCS Forage · NPTEL Java |
-
-<br/>
-
----
-
 <div align="center">
 
-*Open to SDE · AI/ML · Data Engineering roles — 2027 batch*
+**Vidyalankar Institute of Technology, Mumbai · B.Tech CSE · Data Science Honours · 2027**
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=8B949E)](https://prachi5791.github.io/PrachiPatil/)
-[![Resume](https://img.shields.io/badge/Download_Resume-0d1117?style=for-the-badge&logo=googledrive&logoColor=8B949E)](https://prachi5791.github.io/PrachiPatil/)
-[![LinkedIn](https://img.shields.io/badge/Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=8B949E)](https://linkedin.com/in/prachi-maruti-patil)
+HSC 93.6% · SSC 95.6% · CGPA 9.79/10
 
 <br/>
 
-<sub>Built with intent · Deployed with purpose</sub>
+[![View Resume](https://img.shields.io/badge/View_Resume-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1KuxmfBQhx5xLwmYZ8fNPsf6hCXtDjPr0/view?usp=drive_link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://prachi5791.github.io/PrachiPatil/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prachi-maruti-patil)
+
+<br/>
+
+<sub>Ships things. Defends them in interviews. Available May 2027.</sub>
 
 </div>
